@@ -1,0 +1,4 @@
+# Logfile created on 2013-05-31 17:18:38 +0800 by logger.rb/31641
+I, [2013-05-31T17:18:38.336604 #9559]  INFO -- : http://www.baidu.com 200 OK
+D, [2013-05-31T17:18:59.974544 #9563] DEBUG -- : Usage:./urlmon.rb domain.com
+D, [2013-05-31T17:19:02.558612 #9565] DEBUG -- : Usage:./urlmon.rb domain.com
